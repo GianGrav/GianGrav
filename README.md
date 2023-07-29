@@ -79,18 +79,9 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giangrav&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-___  
-  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=giangrav&&style=flat-square" align="center" />

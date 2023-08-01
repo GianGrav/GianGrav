@@ -10,6 +10,8 @@
 - ⚡ Fun fact: The tabs vs. spaces debate continues to spark discussion among programmers.  
   
 
+- 🎖 English level:  B2: intermediate
+
 <br/>  
 
 

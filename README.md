@@ -4,7 +4,7 @@
 - 🔭 I’m currently working Open To Work.  
   
 
-- 🌱 I’m currently learning TypeScript.  
+- 🌱 I’m currently learning Python and Django.  
   
 
 - ⚡ Fun fact: The tabs vs. spaces debate continues to spark discussion among programmers.  

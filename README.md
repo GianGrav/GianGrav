@@ -1,96 +1,89 @@
-### <div align="center">I'm Giacarlo Gravagna, a Full-Stack Developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working Open To Work.  
-  
-
-- 🌱 I’m currently learning Python and Django.  
-  
-
-- ⚡ Fun fact: The tabs vs. spaces debate continues to spark discussion among programmers.  
-  
-
-- 🎖 English level:  C1: Advanced
-
-- 🎖 Spanish level:  Native
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/giangrav" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/giancarlo-gravagna" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+# Hola, soy Giancarlo Gravagna 👨‍💻
 
+**Full-Stack Developer · La Plata, Buenos Aires 🇦🇷**
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=giangrav&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+Construyo productos web completos y los llevo a producción — del modelo de datos al deploy.
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giangrav&hide_border=true&layout=compact" align="center" /></div>  
+</div>
 
+---
 
-<br/>  
+- 🔭 Trabajando como **freelance**, disponible para sumarme a un equipo (presencial o híbrido en La Plata).
+- 🧩 Foco en **TypeScript de punta a punta**: React / Next.js adelante, Node.js y PostgreSQL atrás.
+- 🌱 Últimamente metido en **Python + Django** y en aplicaciones **local-first**.
+- 📊 Estudiando la **Licenciatura en Ciencia de Datos en Organizaciones** (UNLP).
+- 🏢 Mi trabajo reciente con clientes lo hago desde **[@aureumdesing](https://github.com/aureumdesing)** (Aureum Studio) — repos privados, son proyectos de clientes.
+- 🗣️ Español nativo · Inglés C1.
 
+## Qué uso
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" height="42" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" height="42" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Datos y herramientas
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="42" />
+</div>
+
+</td>
+</tr>
+</table>
+
+## Proyectos
+
+| Proyecto | Qué es | Stack |
+|----------|--------|-------|
+| **TheCLUB-Indumentaria** · [tienda](https://theclubindumentaria.store) | E-commerce en producción para una marca: variantes, checkout con MercadoPago, panel de administración con métricas y stock | Next.js · TypeScript · Prisma · PostgreSQL · MercadoPago |
+| **Trip Planner HOS** · [repo](https://github.com/GianGrav/spotter-trip-planner) | Prueba técnica remunerada para Spotter AI: planificador de viajes de camión con las reglas FMCSA (49 CFR Part 395) y hojas de registro en SVG | Django · DRF · React · TypeScript · Leaflet |
+| **KASHBOARD** · [app](https://kash-app-jet.vercel.app) | Finanzas personales 100% en el navegador, sin backend: multi-moneda, gráficos, backup local | React · TypeScript · Dexie.js · Zustand · Recharts |
+| **ATRIALIFE OS** | PWA local-first que unifica agenda, entrenamiento, finanzas y facultad, sobre un sistema de componentes propio | React · TypeScript · Vite · PWA |
+
+## Contacto
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=giangrav&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F6E75?style=for-the-badge&logo=vercel&logoColor=white)](https://mi-portafolio-one-delta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giancarlo-gravagna)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giancarlogravagnatrabajo@gmail.com)
 
+</div>
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GianGrav&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianGrav&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
